@@ -1,0 +1,21 @@
+body{
+    background-color:cornflowerblue;
+    background-image: Imagejpg;
+}
+li {
+    color: #ff6b6b;
+    display: inline-block;
+    margin: 2%
+}
+h1 {
+    color:#023a05;
+    font-family: cursive;
+    font-size: 130%;
+}
+p{
+    color:#a62b2b;
+}
+
+div{
+    text-align: center;
+}
